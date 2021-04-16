@@ -23,7 +23,7 @@ HTML:'<h1>見出し1</h1>
 プログラミング言語の場合は記号の後ろに言語名を後ろにつけます。  
 
  ```
- vb.net
+ ```vb.net
  ```
      
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
