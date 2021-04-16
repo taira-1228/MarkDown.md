@@ -83,7 +83,7 @@ End Sub
 - 以下のように記述する
 `![ファイルの説明](image/画像ファイル名)`  
 - 貼り付け結果
-![アダム＆ソーン](image/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6y52C5DRxgrTiPhZ1ZW_BkV1F1pnoGxJALA&usqp=CAU)
+![アダム＆ソーン](image/images.jpg)
 
 - 絵文字テスト
 https://www.webpagefx.com/tools/emoji-cheat-sheet/ から好きなものを選んで表示させる。
