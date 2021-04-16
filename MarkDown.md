@@ -84,7 +84,7 @@ End Sub
 `![ファイルの説明](image/画像ファイル名)`  
 - 貼り付け結果
 
-![アダム＆ソーン](images/image.jpg)
+![アダム＆ソーン](images/images.jpg)
 
 - 絵文字テスト
 https://www.webpagefx.com/tools/emoji-cheat-sheet/ から好きなものを選んで表示させる。
