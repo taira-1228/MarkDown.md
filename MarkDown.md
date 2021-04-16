@@ -83,7 +83,7 @@ End Sub
 - 以下のように記述する
 `![ファイルの説明](image/画像ファイル名)`  
 - 貼り付け結果
-![アダム＆ソーン](R2310_hirami_java/image/images.jpg)
+![アダム＆ソーン](image/images.jpg)
 
 - 絵文字テスト
 https://www.webpagefx.com/tools/emoji-cheat-sheet/ から好きなものを選んで表示させる。
