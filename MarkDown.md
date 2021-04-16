@@ -18,11 +18,11 @@
 文章ををそのまま出力させるには改行して空白を4つ開けるか  で囲みます。
 プログラミング言語の場合は記号の後ろに言語名を後ろにつけます。
 
-```vb.net```
-```Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click```
-    ```アプリケーションを終了する```
-    ```Application.Exit()```
-```End Sub```
+``` vb.net
+Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+   ` アプリケーションを終了する
+    Application.Exit()
+    End Sub ```
 文章内の場合は <h1></h1> と ` ひとつで囲む。
 
 リスト表示
